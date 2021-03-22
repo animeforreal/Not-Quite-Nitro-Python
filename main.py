@@ -15,4 +15,4 @@ async def on_ready():
 		except Exception as e:
 			print(e)
 
-bot.run("token")
+bot.run("ODIzNDM3ODYzMjM5NjgwMDIx.YFg0RQ.a0b4Qin78QOWSYWikdfX1_KAops")
